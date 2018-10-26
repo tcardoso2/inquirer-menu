@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ewnd9/inquirer-menu.svg?branch=master)](https://travis-ci.org/ewnd9/inquirer-menu)
 
-Wrapper around inquirer for creation a terminal menu with history
+Wrapper around inquirer for creation a terminal menu with history, forked from ewnd9, but with option to set the component type.
 
 ![Demonstration](/demo.gif?raw=true)
 
